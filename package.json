@@ -1,0 +1,22 @@
+{
+  "name": "artex",
+  "version": "1.0.0",
+  "description": "Server for Advence Responsive Text Entity for eXpertise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidParkar/A.R.T.E.X-Server.git"
+  },
+  "keywords": [
+    "Artex"
+  ],
+  "author": "Junaid Parkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunaidParkar/A.R.T.E.X-Server/issues"
+  },
+  "homepage": "https://github.com/JunaidParkar/A.R.T.E.X-Server#readme"
+}
